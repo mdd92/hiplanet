@@ -1,0 +1,2 @@
+# hiplanet
+Test for class
